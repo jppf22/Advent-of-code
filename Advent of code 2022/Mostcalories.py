@@ -1,4 +1,4 @@
-with open("input.txt", 'r') as f:
+with open("Advent of code 2022/input.txt", 'r') as f:
     lines = f.readlines()
 
 elfs_calories = []
