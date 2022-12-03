@@ -15,7 +15,7 @@ def getScoreRound(oponent, you):
     else:
         return score + 6
 
-with open("Advent of code 2022/rockpaperscissors.txt",'r') as f:
+with open("Advent of code 2022/Day 2/rockpaperscissors.txt",'r') as f:
     lines = f.readlines()
 
 maxscore = 0
